@@ -35,3 +35,7 @@ p3 {
 p4 {
     color: orange;
 }
+
+a:hover {
+        background-color: darkred;
+}
