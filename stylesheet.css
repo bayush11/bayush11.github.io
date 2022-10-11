@@ -12,10 +12,20 @@
 
 p {
     color: olive;
+    font-size: 1.5em;
+    margin: 30px;
+    padding: 30px;
+    border-style: solid;
+    border-color: orange;
 }
 
 p2 {
     color: orange;
+    font-size: 1.5em;
+    margin: 30px;
+    padding: 30px;
+    border-style: solid;
+    border-color: olive;
 }
 
 p3 {
