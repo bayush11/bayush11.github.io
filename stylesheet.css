@@ -1,5 +1,5 @@
 #num1 head{
-    color: yellow;
+    color: blue;
 }
 
 #num2 head2{
@@ -7,7 +7,21 @@
 }
 
 .class1{
-    color:green;
+    color:blue;
 }
 
+p {
+    color: blue;
+}
 
+p2 {
+    color: blue;
+}
+
+p3 {
+    color: blue;
+}
+
+p4 {
+    color: blue;
+}
