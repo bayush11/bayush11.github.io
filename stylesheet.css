@@ -1,41 +1,22 @@
-#num1 head{
-    color: red;
+*{
+	font-family: sans-serif;
+	margin: 5;
+	padding: 0;
+	text-decoration: none;
+	box-sizing: border-box;
+	
+}
+body{
+	min-height: 100vh;
+	backround: linear-gradient(text-decoration);
 }
 
-#num2 head2{
-    color: blue;
-}
-
-.class1{
-    color:orange;
-}
-
-p {
-    color: olive;
-    font-size: 1.5em;
-    margin: 30px;
-    padding: 30px;
-    border-style: solid;
-    border-color: orange;
-}
-
-p2 {
-    color: orange;
-    font-size: 1.5em;
-    margin: 30px;
-    padding: 30px;
-    border-style: solid;
-    border-color: olive;
-}
-
-p3 {
-    color: blue;
-}
-
-p4 {
-    color: orange;
-}
-
-a:hover {
-        background-color: yellow;
+form{
+	width: 400px;
+	height: 580px;
+	backround: #998;
+	left: 50%;
+    top: 50%;
+    position: absolute;
+    
 }
